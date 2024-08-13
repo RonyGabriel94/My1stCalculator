@@ -1,0 +1,14 @@
+C:\Users\rgcb1\Desktop\Mis Proyectos\My1stCalculator\My1stCalculator\bin\Debug\net8.0\My1stCalculator.exe
+C:\Users\rgcb1\Desktop\Mis Proyectos\My1stCalculator\My1stCalculator\bin\Debug\net8.0\My1stCalculator.deps.json
+C:\Users\rgcb1\Desktop\Mis Proyectos\My1stCalculator\My1stCalculator\bin\Debug\net8.0\My1stCalculator.runtimeconfig.json
+C:\Users\rgcb1\Desktop\Mis Proyectos\My1stCalculator\My1stCalculator\bin\Debug\net8.0\My1stCalculator.dll
+C:\Users\rgcb1\Desktop\Mis Proyectos\My1stCalculator\My1stCalculator\bin\Debug\net8.0\My1stCalculator.pdb
+C:\Users\rgcb1\Desktop\Mis Proyectos\My1stCalculator\My1stCalculator\obj\Debug\net8.0\My1stCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgcb1\Desktop\Mis Proyectos\My1stCalculator\My1stCalculator\obj\Debug\net8.0\My1stCalculator.AssemblyInfoInputs.cache
+C:\Users\rgcb1\Desktop\Mis Proyectos\My1stCalculator\My1stCalculator\obj\Debug\net8.0\My1stCalculator.AssemblyInfo.cs
+C:\Users\rgcb1\Desktop\Mis Proyectos\My1stCalculator\My1stCalculator\obj\Debug\net8.0\My1stCalculator.csproj.CoreCompileInputs.cache
+C:\Users\rgcb1\Desktop\Mis Proyectos\My1stCalculator\My1stCalculator\obj\Debug\net8.0\My1stCalculator.dll
+C:\Users\rgcb1\Desktop\Mis Proyectos\My1stCalculator\My1stCalculator\obj\Debug\net8.0\refint\My1stCalculator.dll
+C:\Users\rgcb1\Desktop\Mis Proyectos\My1stCalculator\My1stCalculator\obj\Debug\net8.0\My1stCalculator.pdb
+C:\Users\rgcb1\Desktop\Mis Proyectos\My1stCalculator\My1stCalculator\obj\Debug\net8.0\My1stCalculator.genruntimeconfig.cache
+C:\Users\rgcb1\Desktop\Mis Proyectos\My1stCalculator\My1stCalculator\obj\Debug\net8.0\ref\My1stCalculator.dll
